@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
+  <h1 align="center"> Hi there 👋 <br/>✨ I'm NAKITYO JOANITA ✨ </h1>
+<h3 align="center">Full stack Web developer with strong passion for data science</h3>
+
+<div> 
+ <a href="https://twitter.com/NakityoJoanita" target="blank"><img src="https://img.shields.io/twitter/follow/NakityoJoanita?logo=twitter&style=for-the-badge" alt="NakityoJoanita"/></a>
+  <a href = "mailto:nakityojoanita51@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joanita-nakityo-36900a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
